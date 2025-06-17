@@ -4,7 +4,7 @@
 
 
 
-[![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudstryder)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinshanker)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudstryder&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
